@@ -10,7 +10,8 @@
 
 ### Day 2: April 21, 2024
 
-**Today's Progress**: Still a simple challenge, a responsive navbar
+**Today's Progress**: Still a simple challenge, a responsive navbar.
+
 **Thoughts:** Recalled a lot of things about tailwind and how to setup a vite enviroment with react, also was able to use my favorite icon package "react icons" so that was nice.
 
 
