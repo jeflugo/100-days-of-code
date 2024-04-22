@@ -14,5 +14,12 @@
 
 **Thoughts:** Recalled a lot of things about tailwind and how to setup a vite enviroment with react, also was able to use my favorite icon package "react icons" so that was nice.
 
-
 **Link to work:** [Responsive navbar](https://github.com/jeflugo/responsive-navbar)
+
+### Day 3: April 22, 2024
+
+**Today's Progress**: Todo list app with local storage functionality.
+
+**Thoughts:** feeling more comfortable using react again and todos i used localstorage again in a long time its good to save your data somewhere.
+
+**Link to work:** [Responsive navbar](https://github.com/jeflugo/todolist-localsto)
