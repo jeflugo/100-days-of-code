@@ -23,3 +23,11 @@
 **Thoughts:** feeling more comfortable using react again and todos i used localstorage again in a long time its good to save your data somewhere.
 
 **Link to work:** [Responsive navbar](https://github.com/jeflugo/todolist-localsto)
+
+### Day 4: April 23, 2024
+
+**Today's Progress**: Accordion with animations.
+
+**Thoughts:** im not gonna lie i really struggled with this one, but only in the animation part i just couldnt get it right but its done now, its not perfect animation but i did it.
+
+**Link to work:** [Accordion](https://github.com/jeflugo/accordion)
