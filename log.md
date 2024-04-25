@@ -31,3 +31,11 @@
 **Thoughts:** im not gonna lie i really struggled with this one, but only in the animation part i just couldnt get it right but its done now, its not perfect animation but i did it.
 
 **Link to work:** [Accordion](https://github.com/jeflugo/accordion)
+
+### Day 5: April 24, 2024
+
+**Today's Progress**: Sortable list with ordering state functionality.
+
+**Thoughts:** Today was more aout understanding than coding i copied a lot of todays code from the DnD kit docs, anfter that i spent some time playing with the code and watching how this library acctually works, i learned a lot.
+
+**Link to work:** [Sortable list](https://github.com/jeflugo/sortable-list)
