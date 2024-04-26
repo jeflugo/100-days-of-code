@@ -47,3 +47,11 @@
 **Thoughts:** not much to tell, got i litle stressed out today, i couldnt find the right way to do the component or at least thats what i thought but it was just me blocking myself from something that was actually very simple just needed to read a litle to get it right. 
 
 **Link to work:** [Pagination component](https://github.com/jeflugo/pagination-component)
+
+### Day 7: April 26, 2024
+
+**Today's Progress**: Carousel component.
+
+**Thoughts:** Today was about buildeing a simple carousel i felt overwhelmed when i first tought about doing it but once you start its very simple, i didnt do anything fancy of course. Alsoi took my time to lear how to setup vite with react from scratch today. 
+
+**Link to work:** [Carousel component](https://github.com/jeflugo/carousel)
