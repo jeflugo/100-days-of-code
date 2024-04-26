@@ -39,3 +39,11 @@
 **Thoughts:** Today was more aout understanding than coding i copied a lot of todays code from the DnD kit docs, anfter that i spent some time playing with the code and watching how this library acctually works, i learned a lot.
 
 **Link to work:** [Sortable list](https://github.com/jeflugo/sortable-list)
+
+### Day 6: April 25, 2024
+
+**Today's Progress**: Pagination component.
+
+**Thoughts:** not much to tell, got i litle stressed out today, i couldnt find the right way to do the component or at least thats what i thought but it was just me blocking myself from something that was actually very simple just needed to read a litle to get it right. 
+
+**Link to work:** [Pagination component](https://github.com/jeflugo/pagination-component)
