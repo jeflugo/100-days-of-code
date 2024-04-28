@@ -55,3 +55,11 @@
 **Thoughts:** Today was about buildeing a simple carousel i felt overwhelmed when i first tought about doing it but once you start its very simple, i didnt do anything fancy of course. Alsoi took my time to lear how to setup vite with react from scratch today. 
 
 **Link to work:** [Carousel component](https://github.com/jeflugo/carousel)
+
+### Day 8: April 27, 2024
+
+**Today's Progress**: Firebase auth.
+
+**Thoughts:** a litle hard because a had to read a lot to understand how to setup firebase to get access to the auth feature. 
+
+**Link to work:** [Firebase auth](https://github.com/jeflugo/firebase-auth-practice)
