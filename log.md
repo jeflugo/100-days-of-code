@@ -63,10 +63,19 @@
 **Thoughts:** a litle hard because a had to read a lot to understand how to setup firebase to get access to the auth feature. 
 
 **Link to work:** [Firebase auth](https://github.com/jeflugo/firebase-auth-practice)
-### Day 8: April 27, 2024
+
+### Day 9: April 28, 2024
 
 **Today's Progress**: Products filter.
 
 **Thoughts:** First project i didnt finish the same day, today i built the product components and tomorrow ill add the filter functionality. 
+
+**Link to work:** [Products filter](https://github.com/jeflugo/product-filtering)
+
+### Day 10: April 29, 2024
+
+**Today's Progress**: Products filter.
+
+**Thoughts:** finally done with the ecommerce laike products filter. Learned a lot about state management in react while building this filter menu. 
 
 **Link to work:** [Products filter](https://github.com/jeflugo/product-filtering)
