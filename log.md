@@ -87,3 +87,11 @@
 **Thoughts:** did a lot of readin a finally got to the point where i am able to make a successful API call tomorrow its css time. 
 
 **Link to work:** [Weather app](https://github.com/jeflugo/weather-app)
+
+### Day 12: May 01, 2024
+
+**Today's Progress**: Weather app.
+
+**Thoughts:** Well it wasnt as easy as i expected mainly because i was diving in info to get the best posible layout for my mini project giving my limited access to paid APIs.  
+
+**Link to work:** [Weather app](https://github.com/jeflugo/weather-app)
