@@ -79,3 +79,11 @@
 **Thoughts:** finally done with the ecommerce laike products filter. Learned a lot about state management in react while building this filter menu. 
 
 **Link to work:** [Products filter](https://github.com/jeflugo/product-filtering)
+
+### Day 11: April 30, 2024
+
+**Today's Progress**: Weather app.
+
+**Thoughts:** did a lot of readin a finally got to the point where i am able to make a successful API call tomorrow its css time. 
+
+**Link to work:** [Weather app](https://github.com/jeflugo/weather-app)
