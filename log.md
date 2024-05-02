@@ -95,3 +95,11 @@
 **Thoughts:** Well it wasnt as easy as i expected mainly because i was diving in info to get the best posible layout for my mini project giving my limited access to paid APIs.  
 
 **Link to work:** [Weather app](https://github.com/jeflugo/weather-app)
+
+### Day 13: May 02, 2024
+
+**Today's Progress**: Infinite scroll gallery.
+
+**Thoughts:** for this one i used the IntersectionObserver built-in API and it wasnt't difficult.  
+
+**Link to work:** [Infinite scroll gallery](https://github.com/jeflugo/infinite-gallery)
