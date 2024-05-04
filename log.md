@@ -111,3 +111,11 @@
 **Thoughts:** Today there was a black out in my neighborhood, so i just did part of this challenge, ill do the rest tomorrow, its mostly styling.  
 
 **Link to work:** [Markdown previwer](https://github.com/jeflugo/markdown-previewer)
+
+### Day 15: May 04, 2024
+
+**Today's Progress**: Markdown previwer.
+
+**Thoughts:** so i tought i was going to do some styling today but i decided to leave the styles almost excatcly as they were and focus on routing.  
+
+**Link to work:** [Markdown previwer](https://github.com/jeflugo/markdown-previewer)
