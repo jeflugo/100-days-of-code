@@ -103,3 +103,11 @@
 **Thoughts:** for this one i used the IntersectionObserver built-in API and it wasnt't difficult.  
 
 **Link to work:** [Infinite scroll gallery](https://github.com/jeflugo/infinite-gallery)
+
+### Day 14: May 03, 2024
+
+**Today's Progress**: Markdown previwer.
+
+**Thoughts:** Today there was a black out in my neighborhood, so i just did part of this challenge, ill do the rest tomorrow, its mostly styling.  
+
+**Link to work:** [Markdown previwer](https://github.com/jeflugo/markdown-previewer)
