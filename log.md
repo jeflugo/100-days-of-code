@@ -119,3 +119,12 @@
 **Thoughts:** so i tought i was going to do some styling today but i decided to leave the styles almost excatcly as they were and focus on routing.  
 
 **Link to work:** [Markdown previwer](https://github.com/jeflugo/markdown-previewer)
+
+### Day 16: May 04, 2024
+
+**Today's Progress**: Chat app.
+
+**Thoughts:** didnt have much time today so i just did the main setup.  
+
+**Link to work:** [Chat app (Client)](https://github.com/jeflugo/chat-app)
+**Link to work:** [Chat app (Server)](https://github.com/jeflugo/chat-app-server)
