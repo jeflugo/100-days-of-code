@@ -120,11 +120,20 @@
 
 **Link to work:** [Markdown previwer](https://github.com/jeflugo/markdown-previewer)
 
-### Day 16: May 04, 2024
+### Day 16: May 05, 2024
 
 **Today's Progress**: Chat app.
 
 **Thoughts:** didnt have much time today so i just did the main setup.  
+
+**Link to work:** [Chat app (Client)](https://github.com/jeflugo/chat-app)
+**Link to work:** [Chat app (Server)](https://github.com/jeflugo/chat-app-server)
+
+### Day 17: May 06, 2024
+
+**Today's Progress**: Chat app.
+
+**Thoughts:** i really suprised myself finishing today, i did not go any further to make the app better, ill be doing that in the future with a bigger application, this was just an excercise to wrap my head around the main functionality of socket.io.  
 
 **Link to work:** [Chat app (Client)](https://github.com/jeflugo/chat-app)
 **Link to work:** [Chat app (Server)](https://github.com/jeflugo/chat-app-server)
