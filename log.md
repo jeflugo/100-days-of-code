@@ -137,3 +137,11 @@
 
 **Link to work:** [Chat app (Client)](https://github.com/jeflugo/chat-app)
 **Link to work:** [Chat app (Server)](https://github.com/jeflugo/chat-app-server)
+
+### Day 18: May 07, 2024
+
+**Today's Progress**: Quizz app.
+
+**Thoughts:** just did the main setup today.  
+
+**Link to work:** [Quizz app](https://github.com/jeflugo/quizz-app)
