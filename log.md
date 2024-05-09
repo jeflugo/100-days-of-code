@@ -145,3 +145,11 @@
 **Thoughts:** just did the main setup today.  
 
 **Link to work:** [Quizz app](https://github.com/jeflugo/quizz-app)
+
+### Day 19: May 08, 2024
+
+**Today's Progress**: Quizz app.
+
+**Thoughts:** its begginning to take shape, today i wokred on the countdown its not done yet i dont know how to trigger the start event by ref.  
+
+**Link to work:** [Quizz app](https://github.com/jeflugo/quizz-app)
