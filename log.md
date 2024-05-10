@@ -161,3 +161,12 @@
 **Thoughts:** a lot of proggres today, im almost done with the mini project but i still cant figure out some bugs that i have.  
 
 **Link to work:** [Quizz app](https://github.com/jeflugo/quizz-app)
+
+### Day 21: May 10, 2024
+
+**Today's Progress**: Quizz app.
+
+**Thoughts:** i felt really good coding today everything was fluid and calm the ideas came quickly to me wich its interesting giving the fact that i came from a 10+ defeat streak in MLBB ;-;. Well i finished all of the functionality for this mini project and im very happy with the results i will be leaving a live version for this one, so check it out.  
+
+**Link to work:** [Quizz app](https://github.com/jeflugo/quizz-app)
+**Live version:** [Quizz app](https://jef-challenge-quizz-app.netlify.app/)
