@@ -153,3 +153,11 @@
 **Thoughts:** its begginning to take shape, today i wokred on the countdown its not done yet i dont know how to trigger the start event by ref.  
 
 **Link to work:** [Quizz app](https://github.com/jeflugo/quizz-app)
+
+### Day 20: May 09, 2024
+
+**Today's Progress**: Quizz app.
+
+**Thoughts:** a lot of proggres today, im almost done with the mini project but i still cant figure out some bugs that i have.  
+
+**Link to work:** [Quizz app](https://github.com/jeflugo/quizz-app)
