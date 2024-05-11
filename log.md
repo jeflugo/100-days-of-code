@@ -170,3 +170,12 @@
 
 **Link to work:** [Quizz app](https://github.com/jeflugo/quizz-app)  
 **Live version:** [Quizz app](https://jef-challenge-quizz-app.netlify.app/)
+
+### Day 22: May 11, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** I didnt have much time today so i just did some initial setup for what is going to be my first real life like project, its going to take a few days.  
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)
