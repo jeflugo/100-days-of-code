@@ -179,3 +179,12 @@
 
 **Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)
+
+### Day 23: May 12, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** on sundays i dont have much time either but i managed to read some docs and proggres a litle in the layout of what is goint to be my fake store, implemented context functionality and router functionality in addition to that i added future necessary packages like react-hot-toast and react-icons.  
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)
