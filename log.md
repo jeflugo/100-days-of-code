@@ -188,3 +188,13 @@
 
 **Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)
+
+### Day 24: May 13, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** Today i didnt code much butttt, i was because i was working in figma building the phone view for my project i feel that it count for something even though i didnt code much.  
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)  
+**Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
