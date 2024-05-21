@@ -255,6 +255,15 @@
 **Today's Progress**: Ecommerce.
 
 **Thoughts:** Finally finished my carousel and tomorrow ill do another carousel for the best seller products, but it will be a different design hopefully more simple.  
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)  
+**Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
+
+### Day 31: May 20, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** Today in addition to seting up my sanity db and linking it to my frontend i finished the best sellers carousel with wrong data but its working ill do it properly later. 
 
 **Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)  
