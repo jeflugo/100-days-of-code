@@ -268,3 +268,13 @@
 **Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)  
 **Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
+
+### Day 32: May 21, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** I did some adjustments to the way that my components display depending on screen size, until now i was using the tailwind utility classes to manage my media queries but i really wanted to erase the components that i wasnt showing in the screen instead of just hiding them so i added an width tracker in addition to some constants for the specific screen sizes (sm,md,lg).
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)  
+**Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
