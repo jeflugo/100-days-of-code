@@ -278,3 +278,13 @@
 **Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)  
 **Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
+
+### Day 33: May 21, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** I think to this point my hom page its all done and i believe that was the most hard page to do because its the landing and the one that recruiters are goin to see, it must be attractive and even with all my inexperience i hope i did a good job. i will be going back to the page to add the functionality necessary to the button and maybe other litle changes that i consider along the way.
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)  
+**Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
