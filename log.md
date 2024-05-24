@@ -279,11 +279,31 @@
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)  
 **Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
 
-### Day 33: May 21, 2024
+### Day 33: May 22, 2024
 
 **Today's Progress**: Ecommerce.
 
 **Thoughts:** I think to this point my hom page its all done and i believe that was the most hard page to do because its the landing and the one that recruiters are goin to see, it must be attractive and even with all my inexperience i hope i did a good job. i will be going back to the page to add the functionality necessary to the button and maybe other litle changes that i consider along the way.
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)  
+**Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
+
+### Day 34: May 23, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** Added a nice overlay effect to my best sellers.
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)  
+**Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
+
+### Day 35: May 24, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** It's not that i didn't do anything yesterday i just forgot to upload my log im so sorry with whoever reading i swear i did code yesterday xD, wth that out of the way today i just did some basic layout for the store page and did an advance in the serach bar component.
 
 **Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)  
