@@ -338,3 +338,9 @@
 **Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)  
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)  
 **Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
+
+### Day 39: May 28, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** I had t take a break from my project today and concentrate in changin terminal and text editor because the ones that i was using until now (Microsoft pwsh and VSC) are turning to be really heavy on my computer so i spent the day installing and setting up Sublime text and Git bash.
