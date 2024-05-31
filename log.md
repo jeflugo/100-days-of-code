@@ -345,12 +345,20 @@
 
 **Thoughts:** I had t take a break from my project today and concentrate in changin terminal and text editor because the ones that i was using until now (Microsoft pwsh and VSC) are turning to be really heavy on my computer so i spent the day installing and setting up Sublime text and Git bash.
 
-
 ### Day 40: May 29, 2024
 
 **Today's Progress**: Ecommerce.
 
 **Thoughts:** Today i was all in sanity, triying to figure out how to dd all the fields that i wanted in the way that i wanted but i just cannot get it right im struggling with this totalStock field i want it to be the sum of another field cuantities but i just dont find the way, i hope tomorrow i do, im close to finishing my fake store, also today i posted my sanity repo, also 2 i did some minor adjustments in the client side.
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
+
+### Day 41: May 30, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** Another day in sanity, i was feeling optimistic today because i discovered how to compute data from sibling field and be able to display it but the real problem is to set the value of the field that i want to be that computed data i spent the whole day watching videos about cumtom input components but everything feels so complicated and not what i'm lookint for, tomorrow i'll keep triying.
 
 **Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
