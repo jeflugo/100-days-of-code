@@ -362,3 +362,12 @@
 
 **Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
+
+### Day 42: May 31, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** I'm done for now with sanity i didnt find the solution that i wanted or at least i think its not possible the totalStock field as i thought, well, todasy i added some products to my sanity project studio, i'll be testing the data and working with it to see if it is ok for me to add the other products.
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
