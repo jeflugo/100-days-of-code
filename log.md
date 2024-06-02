@@ -379,3 +379,14 @@
 **Thoughts:** Finally moving on, although i didn't have much time today, i just did some designing integration for the new info i set yesterday (tags, sizes), today i did an initial of what is goint to be the tags and the sizes components.
 
 **Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)
+
+### Day 44: May 02, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** Finished the ProductDetails page design wise.
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)
+**Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
