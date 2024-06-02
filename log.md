@@ -371,3 +371,11 @@
 
 **Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
+
+### Day 43: May 01, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** Finally moving on, although i didn't have much time today, i just did some designing integration for the new info i set yesterday (tags, sizes), today i did an initial of what is goint to be the tags and the sizes components.
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)
