@@ -412,3 +412,14 @@
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)
 **Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
+
+### Day 47: May 05, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** I feel like a did a lot of thing today but i wouldn't know to explain each one mainly because i dont reamember, but i mostly worked in adjusting all the prices and reorganazing the code for the horizontal sliders.
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)
+**Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
