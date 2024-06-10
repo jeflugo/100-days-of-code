@@ -456,3 +456,14 @@
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)
 **Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
+
+### Day 51: May 09, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** Well today is the day i'm practically done with my project today i added the stripe functionality and localStorage functionality also mede some corrections along the way, now anyone that wnats to try my page can simply go and buy something and add some boilerplate card number and its done, your fake purchase has been made.
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)
+**Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
