@@ -478,3 +478,14 @@
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)
 **Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
+
+### Day 53: May 11, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** Now that im done with the store i wanted to focus a litlte bit in the user content its not much i jus want to be able to register and login, and also when a user is logged i has to be able to mark products as favorite or unmark them if they want to and they should appear in their dashboard page, today i did alot of functionality reagarding this i just need some more time to fix some issues with the favorites not updating like i wnt them to and after that it will be done, everything else is fine users are now able to mark products as favorite but they do not show as exected and users are able to register and login as they please.
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)
+**Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
