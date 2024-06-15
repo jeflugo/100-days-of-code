@@ -500,3 +500,22 @@
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
 **Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)
 **Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
+
+### Day 55: May 13, 2024
+
+**Today's Progress**: Ecommerce.
+
+**Thoughts:** So, i know i didn't update yesterday, but it was because i didn't have internet for most of the day but i did code yesterday i did the search bar functionality because i was forgeting all about it i tought i was almos done with the project and my search bar was still just an input with some styles so yesterday i did that and today 14 i fixed some issues regarding the text highlithing feature of my search bar, oh, and i used Blackbox to code the logic for the text highlithing because i spent a lot of time thinking and searching but nothing came to mind in terms of how to acomplish exactly what i wanted for the highlited text feature.
+
+**Link to work:** [Ecommerce (Client)](https://github.com/jeflugo/fake-ecommerce-1-client)
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-sanity) 
+**Link to work:** [Ecommerce (Server)](https://github.com/jeflugo/fake-ecommerce-1-server)
+**Link to work:** [Ecommerce (Figma)](https://www.figma.com/design/gmSujz2l5c4Qc9MoM4rTbZ/Fake-ecommerce?node-id=1-3&t=VA71OW6Xvm3d0jnq-0)
+
+### Day 56: May 14, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** I took a litle break from my project today and focused in another project that ill be working on, it'll be my next project to focus on, so basically i work in a bakery and everyday we take note of what had been sold from yesterday batch and we then calculate what would the correct amount of bread to make for that day, with this project i will try to make that process a lot and i mean a lor faster and easier creating a calculator that has all the info that we need to make any amount of bread that we need. I will be going back to my ecommerce project for some final details and every time a think about something interesthing that could be done to improve it.
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
