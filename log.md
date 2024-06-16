@@ -519,3 +519,11 @@
 **Thoughts:** I took a litle break from my project today and focused in another project that ill be working on, it'll be my next project to focus on, so basically i work in a bakery and everyday we take note of what had been sold from yesterday batch and we then calculate what would the correct amount of bread to make for that day, with this project i will try to make that process a lot and i mean a lor faster and easier creating a calculator that has all the info that we need to make any amount of bread that we need. I will be going back to my ecommerce project for some final details and every time a think about something interesthing that could be done to improve it.
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 57: May 15, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Today i noticed that a lot of the functionality that i've implemented yesterday was wrong so i spent the day fixing some stuff didn't any visual updated just code, check the repo.
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
