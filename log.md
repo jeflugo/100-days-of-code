@@ -527,3 +527,12 @@
 **Thoughts:** Today i noticed that a lot of the functionality that i've implemented yesterday was wrong so i spent the day fixing some stuff didn't any visual updated just code, check the repo.
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+
+### Day 58: May 16, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Calculations for the bread preparation done.
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
