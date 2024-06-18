@@ -536,3 +536,12 @@
 **Thoughts:** Calculations for the bread preparation done.
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+
+### Day 59: May 17, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Today i did the prep calculations, and displayed them.
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
