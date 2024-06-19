@@ -545,3 +545,12 @@
 **Thoughts:** Today i did the prep calculations, and displayed them.
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+
+### Day 60: May 18, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Well i tought today i was going to make a lot of proggress but i was stoped by  a weird bug i dont know how much time it wil take to go past this.
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
