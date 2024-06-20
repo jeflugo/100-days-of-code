@@ -528,7 +528,6 @@
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
 
-
 ### Day 58: May 16, 2024
 
 **Today's Progress**: Cuenta Pan.
@@ -536,7 +535,6 @@
 **Thoughts:** Calculations for the bread preparation done.
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
-
 
 ### Day 59: May 17, 2024
 
@@ -546,11 +544,18 @@
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
 
-
 ### Day 60: May 18, 2024
 
 **Today's Progress**: Cuenta Pan.
 
 **Thoughts:** Well i tought today i was going to make a lot of proggress but i was stoped by  a weird bug i dont know how much time it wil take to go past this.
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 61: May 18, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Made a lot of progress today, i was able to fix that stupid bug, and added alot of functionality, i want to deploy my site but typescript doesnt let me bc some other stupid bug from some material-tailwind components it says that it donest have all the necessary props idk.
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
