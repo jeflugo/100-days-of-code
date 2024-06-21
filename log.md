@@ -552,10 +552,18 @@
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
 
-### Day 61: May 18, 2024
+### Day 61: May 19, 2024
 
 **Today's Progress**: Cuenta Pan.
 
 **Thoughts:** Made a lot of progress today, i was able to fix that stupid bug, and added alot of functionality, i want to deploy my site but typescript doesnt let me bc some other stupid bug from some material-tailwind components it says that it donest have all the necessary props idk.
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 62: May 20, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Did the yeast functionality the yeast its differrent from the other ingredients because it also depends on the time of fermentation, also i fixed some bugs. 
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
