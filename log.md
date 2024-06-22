@@ -567,3 +567,11 @@
 **Thoughts:** Did the yeast functionality the yeast its differrent from the other ingredients because it also depends on the time of fermentation, also i fixed some bugs. 
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 63: May 21, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Today was refactoring day, move various pieces of JSx into its own components and added lazy loading for a better first start of the page. 
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
