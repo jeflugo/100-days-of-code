@@ -575,3 +575,11 @@
 **Thoughts:** Today was refactoring day, move various pieces of JSx into its own components and added lazy loading for a better first start of the page. 
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 64: May 22, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Added button to copy to clipboard the list of breads and their corresponding amounts. 
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
