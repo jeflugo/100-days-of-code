@@ -583,3 +583,11 @@
 **Thoughts:** Added button to copy to clipboard the list of breads and their corresponding amounts. 
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 65: May 23, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** I started adding some dnd functionality to my breadList but i was unsuccessful to finish it today, i tried to do it the quick way using Cursor built-in AI-Chat but i just receive an error and the dnd doesnt work i read some docs about react-beautiful-dnd but i dont have the time and the patience to go through that, so I'll leave it for tomorrow. 
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
