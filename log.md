@@ -599,3 +599,11 @@
 **Thoughts:** Today i finished the dnd funcitonality for rearranging the BreadList it was more ocmplicated than i tought but i did it, i also chamged the position of the update pop-up from "absolute" to "fixed'.
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 67: May 25, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Just fixed some typos and adjusted the styles for even smaller screens.
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
