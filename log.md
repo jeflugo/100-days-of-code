@@ -591,3 +591,11 @@
 **Thoughts:** I started adding some dnd functionality to my breadList but i was unsuccessful to finish it today, i tried to do it the quick way using Cursor built-in AI-Chat but i just receive an error and the dnd doesnt work i read some docs about react-beautiful-dnd but i dont have the time and the patience to go through that, so I'll leave it for tomorrow. 
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 66: May 24, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Today i finished the dnd funcitonality for rearranging the BreadList it was more ocmplicated than i tought but i did it, i also chamged the position of the update pop-up from "absolute" to "fixed'.
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
