@@ -607,3 +607,11 @@
 **Thoughts:** Just fixed some typos and adjusted the styles for even smaller screens.
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 68: May 26, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Super basic intial server setup.
+
+**Link to work:** [Cuenta Pan (Server)](https://github.com/jeflugo/cuenta-pan-server)
