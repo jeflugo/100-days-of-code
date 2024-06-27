@@ -615,3 +615,11 @@
 **Thoughts:** Super basic intial server setup.
 
 **Link to work:** [Cuenta Pan (Server)](https://github.com/jeflugo/cuenta-pan-server)
+
+### Day 69: May 27, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Added mongoDB connection and some minimal setup for the routes and controllers.
+
+**Link to work:** [Cuenta Pan (Server)](https://github.com/jeflugo/cuenta-pan-server)
