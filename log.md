@@ -623,3 +623,11 @@
 **Thoughts:** Added mongoDB connection and some minimal setup for the routes and controllers.
 
 **Link to work:** [Cuenta Pan (Server)](https://github.com/jeflugo/cuenta-pan-server)
+
+### Day 70: May 27, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** I started adding the breadHistory functionality.
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
