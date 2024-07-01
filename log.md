@@ -624,10 +624,26 @@
 
 **Link to work:** [Cuenta Pan (Server)](https://github.com/jeflugo/cuenta-pan-server)
 
-### Day 70: May 27, 2024
+### Day 70: May 28, 2024
 
 **Today's Progress**: Cuenta Pan.
 
 **Thoughts:** I started adding the breadHistory functionality.
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 71: May 29, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** breadHistory functionality almost done.
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 72: May 30, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** breadHistory functionality done and corfirm delete pop up added.
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
