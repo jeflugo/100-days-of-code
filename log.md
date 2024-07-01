@@ -647,3 +647,11 @@
 **Thoughts:** breadHistory functionality done and corfirm delete pop up added.
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 73: Jul 1, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** breadHistory styles changed and confirmReset added.
+
+**Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
