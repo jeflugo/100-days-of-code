@@ -655,3 +655,9 @@
 **Thoughts:** breadHistory styles changed and confirmReset added.
 
 **Link to work:** [Cuenta Pan (Client)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 74: Jul 2, 2024
+
+**Today's Progress**: Tecnical interview.
+
+**Thoughts:** Today i actually did a technical coding interview, the challenge was to create any kind web app with CRUD functionality and use a any DB to store the data, i used PHP and MySQL.
