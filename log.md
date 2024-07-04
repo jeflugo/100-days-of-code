@@ -661,3 +661,11 @@
 **Today's Progress**: Tecnical interview.
 
 **Thoughts:** Today i actually did a technical coding interview, the challenge was to create any kind web app with CRUD functionality and use a any DB to store the data, i used PHP and MySQL.
+
+### Day 75: Jul 3, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Breads route created completely.
+
+**Link to work:** [Cuenta Pan (Server)](https://github.com/jeflugo/cuenta-pan-server)
