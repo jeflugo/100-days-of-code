@@ -677,3 +677,12 @@
 **Thoughts:** All routes are fully functional.
 
 **Link to work:** [Cuenta Pan (Server)](https://github.com/jeflugo/cuenta-pan-server)
+
+### Day 77: Jul 5, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Made a lot of progress today but I'm sick and exhausted to showcase what i did, basically the client is now working with the db to manage all the bread info and CRUD fns
+
+**Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
+**Link to work:** [Cuenta Pan (Server)](https://github.com/jeflugo/cuenta-pan-server)
