@@ -686,3 +686,12 @@
 
 **Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
 **Link to work:** [Cuenta Pan (Server)](https://github.com/jeflugo/cuenta-pan-server)
+
+### Day 78: Jul 6, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** i've been really sick sin the friday, i forgot my yesterday's progress, yesterday i finish my app, everything is up and running, my server is deployed in render.com and my client is deployed in netlify, im using mongodb as my db, basically a full MERN app.
+
+**Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
+**Link to work:** [Cuenta Pan (Server)](https://github.com/jeflugo/cuenta-pan-server)
