@@ -704,3 +704,11 @@
 
 **Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
 **Link to work:** [Cuenta Pan (Server)](https://github.com/jeflugo/cuenta-pan-server)
+
+### Day 80: Jul 8, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Already done with the bug, also i added an initial loading screen. 
+
+**Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
