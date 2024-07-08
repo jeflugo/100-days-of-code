@@ -695,3 +695,12 @@
 
 **Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
 **Link to work:** [Cuenta Pan (Server)](https://github.com/jeflugo/cuenta-pan-server)
+
+### Day 79: Jul 7, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** well i thought i was done with my project, but it seems like i always have some other bug annoying me xD, the history wasn't working properly because of the way i was handling the reset status that dictates if its a new day to update the history and reset the breadLists, I'm not done with that yet i hope i get it right tomorrow.
+
+**Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
+**Link to work:** [Cuenta Pan (Server)](https://github.com/jeflugo/cuenta-pan-server)
