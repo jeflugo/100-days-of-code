@@ -712,3 +712,11 @@
 **Thoughts:** Already done with the bug, also i added an initial loading screen. 
 
 **Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 81: Jul 9, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** Litle bug fixed to show tooltip for each bread.
+
+**Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
