@@ -720,3 +720,12 @@
 **Thoughts:** Litle bug fixed to show tooltip for each bread.
 
 **Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 82: Jul 10, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** I think I finally finished my app, i really cant think of anything else to add and have no futher complains about the app so this is it, to day i fixed the functonality for the dnd list to update the db and also added the corresponding endpoint in the server to manage that request.
+
+**Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
+**Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-server)
