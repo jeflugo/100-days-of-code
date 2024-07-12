@@ -729,3 +729,11 @@
 
 **Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
 **Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-server)
+
+### Day 83: Jul 11, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** just some minor fixs in addition to a tooltip for the "left" field for each bread.
+
+**Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
