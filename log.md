@@ -737,3 +737,11 @@
 **Thoughts:** just some minor fixs in addition to a tooltip for the "left" field for each bread.
 
 **Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 84: Jul 12, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** last update for this project, at least for a while, i did some styling to the BreadHistory component.
+
+**Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
