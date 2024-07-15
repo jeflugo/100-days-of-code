@@ -745,3 +745,20 @@
 **Thoughts:** last update for this project, at least for a while, i did some styling to the BreadHistory component.
 
 **Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 85: Jul 13, 2024
+
+**Today's Progress**: URL shortener.
+
+**Thoughts:** basic setup.
+
+**Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
+**Link to work:** [URL shotener (Server)](https://github.com/jeflugo/url-shortener-1-server)
+
+### Day 86: Jul 14, 2024
+
+**Today's Progress**: Cuenta Pan.
+
+**Thoughts:** just fix some minor bugs that i havent notice.
+
+**Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
