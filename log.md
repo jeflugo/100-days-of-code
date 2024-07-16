@@ -762,3 +762,11 @@
 **Thoughts:** just fix some minor bugs that i havent notice.
 
 **Link to work:** [Cuenta Pan (CLient)](https://github.com/jeflugo/cuenta-pan-client)
+
+### Day 87: Jul 15, 2024
+
+**Today's Progress**: URL shortener.
+
+**Thoughts:** Today i did a basic frontend with no functionalities yet except for the URL validation, basically I'm using REGEX to validate that the URL is in the right format before doing anything.
+
+**Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
