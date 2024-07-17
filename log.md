@@ -770,3 +770,11 @@
 **Thoughts:** Today i did a basic frontend with no functionalities yet except for the URL validation, basically I'm using REGEX to validate that the URL is in the right format before doing anything.
 
 **Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
+
+### Day 88: Jul 16, 2024
+
+**Today's Progress**: URL shortener.
+
+**Thoughts:** Read a lot about URL shorteners and added the copy to clipboard functionality to the "copy url" button.
+
+**Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
