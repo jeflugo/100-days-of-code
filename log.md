@@ -778,3 +778,12 @@
 **Thoughts:** Read a lot about URL shorteners and added the copy to clipboard functionality to the "copy url" button.
 
 **Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
+
+### Day 89: Jul 17, 2024
+
+**Today's Progress**: URL shortener.
+
+**Thoughts:** Basic saver done and connection between client and server done.
+
+**Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
+**Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-server)
