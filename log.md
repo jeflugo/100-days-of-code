@@ -787,3 +787,12 @@
 
 **Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
 **Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-server)
+
+### Day 90: Jul 18, 2024
+
+**Today's Progress**: URL shortener.
+
+**Thoughts:** Only 10 days to go, i've learnt a lot in this 90 days, and to day i got one step closer to finish my url shortener, i stil don't think it's a big project or something to show off in my portfolio but its a very interesting project to do, today i did the URLs route and also made some progress with the db. i'm really close to finish.
+
+**Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
+**Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-server)
