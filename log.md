@@ -805,3 +805,12 @@
 
 **Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
 **Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-server)
+
+### Day 92: Jul 20, 2024
+
+**Today's Progress**: URL shortener.
+
+**Thoughts:** Tried some things, none of them worked ill try again tomorrow.
+
+**Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
+**Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-server)
