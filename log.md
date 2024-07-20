@@ -796,3 +796,12 @@
 
 **Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
 **Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-server)
+
+### Day 91: Jul 19, 2024
+
+**Today's Progress**: URL shortener.
+
+**Thoughts:** Today i thought i finished because i did finish all the functionality in local but when i deployed my site to Netlify the are some bugs that block those functionalities, i don't know how much time it will take to fix them so that's where i am right now.
+
+**Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
+**Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-server)
