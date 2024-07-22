@@ -814,3 +814,11 @@
 
 **Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
 **Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-server)
+
+### Day 93: Jul 21, 2024
+
+**Today's Progress**: URL shortener.
+
+**Thoughts:** I've been trying to adjust netlify to use my redirect page as a "404" page but i have not been able to do so, I've seen guides but they're for simple html pages and I'm using react and the page that i want to render is a component.
+
+**Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
