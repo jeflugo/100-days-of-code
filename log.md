@@ -822,3 +822,11 @@
 **Thoughts:** I've been trying to adjust netlify to use my redirect page as a "404" page but i have not been able to do so, I've seen guides but they're for simple html pages and I'm using react and the page that i want to render is a component.
 
 **Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
+
+### Day 94: Jul 22, 2024
+
+**Today's Progress**: URL shortener.
+
+**Thoughts:** i was really uncertain about the project because it was getting confusing for me, doing this project using a SPA was a challenge for me, i think i would be easier to do it with a node app that serves html but SPAs with react it my focus so it did like that, i had my project fully funtional in local but when deployed on netlify i was getting the 404 default page of netlify whenever i tried to a short url that was supose to redirect me, the solution was simple but finding it was not, i just had to create a netlify.toml and edit it to tell netlify to always use /index.html as the entry point for every request, this result in react-router-dom taking full control over the routing as i was initially hoping it would work.
+
+**Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
