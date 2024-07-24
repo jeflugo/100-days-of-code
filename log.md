@@ -830,3 +830,12 @@
 **Thoughts:** i was really uncertain about the project because it was getting confusing for me, doing this project using a SPA was a challenge for me, i think i would be easier to do it with a node app that serves html but SPAs with react it my focus so it did like that, i had my project fully funtional in local but when deployed on netlify i was getting the 404 default page of netlify whenever i tried to a short url that was supose to redirect me, the solution was simple but finding it was not, i just had to create a netlify.toml and edit it to tell netlify to always use /index.html as the entry point for every request, this result in react-router-dom taking full control over the routing as i was initially hoping it would work.
 
 **Link to work:** [URL shotener (CLient)](https://github.com/jeflugo/url-shortener-1-client)
+
+### Day 95: Jul 23, 2024
+
+**Today's Progress**: Tiktok plus.
+
+**Thoughts:** Just a basic setup for what will be my next big project. A tiktok clone.
+
+**Link to work:** [Tiktok plus (CLient)](https://github.com/jeflugo/tiktok-plus-client)
+**Link to work:** [Tiktok plus (Server)](https://github.com/jeflugo/tiktok-plus-server)
