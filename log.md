@@ -847,3 +847,11 @@
 **Thoughts:** i started working in my routing system i have to be very careful.
 
 **Link to work:** [Tiktok plus (Server)](https://github.com/jeflugo/tiktok-plus-server)
+
+### Day 97: Jul 25, 2024
+
+**Today's Progress**: Tiktok plus.
+
+**Thoughts:** Basic routing system implemented on client side, it's just the basic structure, let me know if you have any suggestions.
+
+**Link to work:** [Tiktok plus (Client)](https://github.com/jeflugo/tiktok-plus-client)
