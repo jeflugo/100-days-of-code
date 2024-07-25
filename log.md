@@ -839,3 +839,11 @@
 
 **Link to work:** [Tiktok plus (CLient)](https://github.com/jeflugo/tiktok-plus-client)
 **Link to work:** [Tiktok plus (Server)](https://github.com/jeflugo/tiktok-plus-server)
+
+### Day 96: Jul 24, 2024
+
+**Today's Progress**: Tiktok plus.
+
+**Thoughts:** i started working in my routing system i have to be very careful.
+
+**Link to work:** [Tiktok plus (Server)](https://github.com/jeflugo/tiktok-plus-server)
