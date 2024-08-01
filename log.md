@@ -855,3 +855,29 @@
 **Thoughts:** Basic routing system implemented on client side, it's just the basic structure, let me know if you have any suggestions.
 
 **Link to work:** [Tiktok plus (Client)](https://github.com/jeflugo/tiktok-plus-client)
+
+// Note: i havent update the log because i wasnt able to load github for some reason, this problem persisted for some days, i will now update what i did in my last 3 days of the challenge thx
+
+### Day 98: Jul 26, 2024
+
+**Today's Progress**: Tiktok plus.
+
+**Thoughts:** Basic for you page styles..
+
+**Link to work:** [Tiktok plus (Client)](https://github.com/jeflugo/tiktok-plus-client)
+
+### Day 99: Jul 27, 2024
+
+**Today's Progress**: Tiktok plus.
+
+**Thoughts:** Styles for suggested search added.
+
+**Link to work:** [Tiktok plus (Client)](https://github.com/jeflugo/tiktok-plus-client)
+
+### Day 100: Jul 28, 2024
+
+**Today's Progress**: Tiktok plus.
+
+**Thoughts:** I modified some icons and added a create button with the same styles as TikTok..
+
+**Link to work:** [Tiktok plus (Client)](https://github.com/jeflugo/tiktok-plus-client)
